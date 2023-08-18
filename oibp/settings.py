@@ -151,10 +151,10 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'meetp.social@gmail.com'
-EMAIL_HOST_PASSWORD = 'meetp.social@123'
-DEFAULT_FROM_EMAIL = 'meetp.social@gmail.com'
+EMAIL_HOST_USER = 'mass@gmail.com'
+EMAIL_HOST_PASSWORD = 'mass@123'
+DEFAULT_FROM_EMAIL = 'mass@gmail.com'
 
-PAYPAL_RECEIVER_EMAIL = 'meetp.social@gmail.com'
+PAYPAL_RECEIVER_EMAIL = 'mass@gmail.com'
  
 PAYPAL_TEST = True
